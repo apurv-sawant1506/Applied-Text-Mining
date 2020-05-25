@@ -1,0 +1,2 @@
+http://www.nltk.org/howto/wordnet.html
+https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation
